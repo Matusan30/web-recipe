@@ -1,0 +1,14 @@
+# Variables de entorno
+.env
+.env.local
+.env.*.local
+
+# Archivos del OS
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+
+# Backend
+backend/node_modules/
