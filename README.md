@@ -1,4 +1,4 @@
-<em> # Recetario WEB </em>
+<h1> Recetario WEB </h1>
 
 <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
 
